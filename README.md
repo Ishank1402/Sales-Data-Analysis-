@@ -34,22 +34,28 @@ Sales dataset containing transaction-level data including order date, product, q
 6. Insight Generation:
    - Identified key patterns from the visualizations for business decision-making.
      
-# Visuals:
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/1.png
-
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/2.png
-
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/3.png
-
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/4.png
-
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/5.png
-
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/6.png
-
-https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/7.png
+# Visuals
 
 ![1](https://github.com/user-attachments/assets/07bab319-6aa0-43b5-84b2-d396e1bf16ac)
+
+
+![2](https://github.com/user-attachments/assets/4f570979-f893-439c-8e3a-175993330230)
+
+
+![3](https://github.com/user-attachments/assets/1878d77b-8abf-482c-8efd-9750c38b7fa1)
+
+
+![4](https://github.com/user-attachments/assets/3dbbbbe1-31b1-4433-82d0-c7de6a5245f7)
+
+
+![5](https://github.com/user-attachments/assets/27921646-88aa-4629-bf8d-ba82438f695b)
+
+
+![6](https://github.com/user-attachments/assets/1ce96760-6156-4309-9089-23b5107dbd7b)
+
+
+![7](https://github.com/user-attachments/assets/aa52c3df-75eb-430a-a727-22d74d95e52b)
+
 
 # Conclusion:
 
