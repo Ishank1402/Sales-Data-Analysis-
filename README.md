@@ -49,6 +49,8 @@ https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/6.png
 
 https://github.com/Ishank1402/Sales-Data-Analysis-/blob/main/7.png
 
+![1](https://github.com/user-attachments/assets/07bab319-6aa0-43b5-84b2-d396e1bf16ac)
+
 # Conclusion:
 
 This Python-based sales analysis provides clear insights into which products are driving the highest revenue and sales volume. 
