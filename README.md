@@ -7,8 +7,9 @@ Data Link - https://www.kaggle.com/datasets/beekiran/sales-data-analysis/data
 This project analyzes sales data using Python to uncover insights related to product sales, revenue generation, and customer purchase behavior. 
 The dataset includes sales transactions with details like product name, quantity ordered, price, and order date. Visualizations are used to present key trends in the data.
 
-## Dataset Used:
-Sales dataset containing transaction-level data including order date, product, quantity, and price.
+
+## Dataset Used: https://www.kaggle.com/datasets/beekiran/sales-data-analysis/data
+
 
 # 📊 Key Metrics / Indicators (KPIs)
 
