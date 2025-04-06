@@ -1,6 +1,8 @@
-# Sales-Data-Analysis-
+# Sales-Data-Analysis
 
-# Project Description
+Data Link - https://www.kaggle.com/datasets/beekiran/sales-data-analysis/data
+
+# 📌  Project Description
 
 This project analyzes sales data using Python to uncover insights related to product sales, revenue generation, and customer purchase behavior. 
 The dataset includes sales transactions with details like product name, quantity ordered, price, and order date. Visualizations are used to present key trends in the data.
@@ -8,15 +10,16 @@ The dataset includes sales transactions with details like product name, quantity
 ## Dataset Used:
 Sales dataset containing transaction-level data including order date, product, quantity, and price.
 
-# Key Metrics / Indicators (KPIs)
+# 📊 Key Metrics / Indicators (KPIs)
 
 1. Revenue Calculation: Derived by multiplying "Quantity Ordered" and "Price Each".
 2. Top-Selling Products: Ranked products by quantity sold.
 3. Sales Over Time: Temporal analysis using order dates to explore time-based trends.
 4. Data Cleaning: Handled missing values and converted data types for analysis.
 5. Revenue Contribution: Identified which products or categories contribute most to total revenue.
-6. 
-#Process:
+
+
+# ⚙️ Process:
 
 1. Data Loading: Loaded the dataset into a Pandas DataFrame from a CSV file.
 2. Data Cleaning:
@@ -57,7 +60,7 @@ Sales dataset containing transaction-level data including order date, product, q
 ![7](https://github.com/user-attachments/assets/aa52c3df-75eb-430a-a727-22d74d95e52b)
 
 
-# Conclusion:
+# 🧠 Conclusion:
 
 From the sales data analysis and the chart showing the Top 10 Most Sold Products, we can conclude the following:
 
