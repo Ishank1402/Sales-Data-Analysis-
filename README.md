@@ -1,7 +1,5 @@
 # Sales-Data-Analysis
 
-Data Link - https://www.kaggle.com/datasets/beekiran/sales-data-analysis/data
-
 # 📌  Project Description
 
 This project analyzes sales data using Python to uncover insights related to product sales, revenue generation, and customer purchase behavior. 
